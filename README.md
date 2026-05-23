@@ -8,6 +8,7 @@ bash python main.py
 
 Megvalósított osztályok
 •	Auto- absztrakt osztály
+
 •	Szemelyauto- személyautók osztálya
 •	Teherauto- teherautók osztálya
 •	Autokolcsonzo- autók és bérlések kezelése
